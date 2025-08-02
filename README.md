@@ -1,4 +1,4 @@
-# Task-3-Energy-Consumption-Time-Series-Forecasting
+# Energy-Consumption-Time-Series-Forecasting
 
 ## ✅ Task Objective
 To analyze historical sales data and build a model that forecasts future sales trends for better inventory and financial planning.
